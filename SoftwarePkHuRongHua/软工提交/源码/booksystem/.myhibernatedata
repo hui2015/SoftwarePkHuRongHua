@@ -1,0 +1,25 @@
+#MyEclipse Hibernate Properties
+#Fri May 08 14:44:57 CST 2015
+sessionFactoryName=org.uml.hotelsystem.sessionfactory.HibernateSessionFactory
+genBasicCompId=false
+profile=
+daoSFId=
+version=4.1
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=native
+libInstallFolder=libs
+addLibs2Project=false
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=/UMLHotelSystem/src/org/uml/hotelsystem/hibernate.reveng.xml
+configFile=/UMLHotelSystem/src/hibernate.cfg.xml
+createConfigFile=true
+addLibs2Classpath=false
+baseDaoClass=org.uml.hotelsystem.dao.BaseHibernateDAO
